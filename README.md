@@ -9,3 +9,6 @@ but cant ask a fish to climb a tree , the fear of failure stops us form trying t
 > I'm developing and improving my self through reading about successful people and thier diaries and watching motivational videos learning from persons older than me
 
 ![cuarge](https://i.pinimg.com/564x/2c/04/52/2c0452f8953e2b8eb2b2d20e29451dda.jpg)
+
+
+Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess Sumaya Unoversity in 2020 , i like to improve my self in computer science especially in coding and Artificial Intelligence field my git hub link https://barayousef.github.io/reading_notes/
