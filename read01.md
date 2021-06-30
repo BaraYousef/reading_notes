@@ -82,6 +82,9 @@ Rendered link [GitHub Pages](https://pages.github.com/).
 
 # GitHub Pages
 
+You can put all of ypur projects and codes you make in one place it is github also you can build repositories and upload your text and project files 
+without any efforts and costs like building servers and database  you can build websites and share your projects with your teamates.
+
 
 
 
