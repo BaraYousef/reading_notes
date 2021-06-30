@@ -10,6 +10,13 @@ it is for styling texts on the web just regular text, you can use it on github o
 
 
                                                     ### The Creators Of Markdown
-                                                    
-        ![John Gruber](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg)
-                                                    ## John Gruber 
+                                                            
+                                                            
+![John Gruber](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg)                                                            
+ ## John Gruber 
+   
+ 
+ ![Aaron Swartz](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg)
+ 
+ ## Aaron Swartz
+                                
