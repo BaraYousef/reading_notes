@@ -14,8 +14,8 @@ but cant ask a fish to climb a tree , the fear of failure stops us form trying t
 
 | **Page**  | **URL**  |   
 |---|---|
-|  Growth Mindset | [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  |  
-| Markdown on GitHub  |   |   
+|  Growth Mindset | [Click Here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  |  
+| Markdown on GitHub  | [Click Here ](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  |   
 |  Getting Started with GitHub Pages |   |   
 
 
