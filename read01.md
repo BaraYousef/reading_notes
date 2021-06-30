@@ -34,9 +34,27 @@ Is to be readable as is as without any special format or complicated coding or a
 * Code 
 * Extras
 
-Headings
+## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
+  \# The largest heading
+
 # The largest heading
+
+\## The second largest heading
 ## The second largest heading
+
+\###### The smallest heading
+
 ###### The smallest heading
+
+## Styling text
+
+Bold
+
+
+\**this text is bold**
+
+**this text is bold**
+
+
