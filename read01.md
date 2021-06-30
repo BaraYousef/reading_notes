@@ -1,7 +1,2 @@
 
-**bara**
-
-* bara
-
-
 & bara
