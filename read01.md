@@ -8,8 +8,7 @@ it is for styling texts on the web just regular text, you can use it on github o
 
 
 
-
-                                                    ### The Creators Of Markdown
+### The Creators Of Markdown
                                                             
                                                             
 ![John Gruber](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg)                                                            
@@ -20,3 +19,7 @@ it is for styling texts on the web just regular text, you can use it on github o
  
  ## Aaron Swartz
                                 
+                                
+## The Key Of Markdown
+
+Is to be readable as is as without any special format or 
