@@ -50,11 +50,38 @@ To create a heading, add one to six # symbols before your heading text. The numb
 
 ## Styling text
 
-Bold
+### Bold
 
 
-\**this text is bold**
+\*\*this text is bold\*\*
 
 **this text is bold**
+
+### Italic
+
+\*this text is in italic\*
+*this text is in italic*
+
+
+### Quoting text
+
+You can quote text with a \>.
+
+In the words of Abraham Lincoln:
+
+\> Pardon my French
+
+> Pardon my French
+
+Links
+You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
+
+This site was built using \[GitHub Pages](https://pages.github.com/).
+
+Rendered link [GitHub Pages](https://pages.github.com/).
+
+# GitHub Pages
+
+
 
 
