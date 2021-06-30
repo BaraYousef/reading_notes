@@ -34,21 +34,9 @@ Is to be readable as is as without any special format or complicated coding or a
 * Code 
 * Extras
 
-lement	Markdown Syntax
-Heading	# H1
-## H2
-### H3
-Bold	**bold text**
-Italic	*italicized text*
-Blockquote	> blockquote
-Ordered List	1. First item
-2. Second item
-3. Third item
-Unordered List	- First item
-- Second item
-- Third item
-Code	`code`
-Horizontal Rule	---
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+Headings
+To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
+# The largest heading
+## The second largest heading
+###### The smallest heading
