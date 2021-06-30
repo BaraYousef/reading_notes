@@ -6,7 +6,10 @@ it is for styling texts on the web just regular text, you can use it on github o
 
 
 
-![John Gruber](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg)
 
-## John Gruber 
-### The Creator Of Markdown
+
+
+                                                    ### The Creators Of Markdown
+                                                    
+        ![John Gruber](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg)
+                                                    ## John Gruber 
