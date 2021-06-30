@@ -25,7 +25,7 @@ it is for styling texts on the web just regular text, you can use it on github o
 Is to be readable as is as without any special format or complicated coding or any previous knowledge in programming languages.
 
 
-## Examples
+## Fields of Using
 * Text 
 * Lists 
 * Images 
