@@ -14,7 +14,8 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 |---|---|
 |  Growth Mindset | [Click Here](https://barayousef.github.io/reading_notes/Growth_Mindset.md)  |  
 | Markdown on GitHub  | [Click Here ](https://barayousef.github.io/reading_notes/read01.md)  |   
-|  Getting Started with GitHub Pages |  [Click Here](https://guides.github.com/features/pages/) |   
+|  Getting Started with GitHub Pages |  [Click Here](https://guides.github.com/features/pages/) |  
+| Git?     | [Click Here](https://barayousef.github.io/reading_notes/Git.md) |
 
 
 
