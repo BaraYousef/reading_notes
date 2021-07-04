@@ -18,6 +18,7 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 | Git?     | [Click Here](https://barayousef.github.io/reading_notes/Git.md) |
 |HTML|[Click Here](https://barayousef.github.io/reading_notes/read03.md)|
 |JavaScript|[click Here](https://barayousef.github.io/reading_notes/read04.md)|
+|Loops & Operators |[Click Here](https://barayousef.github.io/reading_notes/read05.md)|
 
 
 
