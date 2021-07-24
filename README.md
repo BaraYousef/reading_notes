@@ -21,26 +21,5 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 |Loops & Operators |[Click Here](https://barayousef.github.io/reading_notes/read05.md)|
 
 
-## Code 201 Reading Notes 
-
-### Table Of Contents
-
-| **Pages**  | **URL**  |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-
 
 
