@@ -19,7 +19,7 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 |HTML|[Click Here](https://barayousef.github.io/reading_notes/read03.md)|
 |JavaScript|[click Here](https://barayousef.github.io/reading_notes/read04.md)|
 |Loops & Operators |[Click Here](https://barayousef.github.io/reading_notes/read05.md)|
-<<<<<<< HEAD
+
 
 ## Code 201 Reading Notes 
 ### Welcome
@@ -43,7 +43,7 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 |   |   |
 
 
-=======
+
 
 
 
