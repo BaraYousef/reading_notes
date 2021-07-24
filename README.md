@@ -6,7 +6,7 @@
 Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess Sumaya Unoversity in 2020 , i like to improve my self in computer science especially in coding and Artificial Intelligence field my git hub link https://barayousef.github.io/reading_notes/
 
 
-
+## Code 102 Reading Notes
 
 #### Table Of Content ####
 
@@ -19,6 +19,7 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 |HTML|[Click Here](https://barayousef.github.io/reading_notes/read03.md)|
 |JavaScript|[click Here](https://barayousef.github.io/reading_notes/read04.md)|
 |Loops & Operators |[Click Here](https://barayousef.github.io/reading_notes/read05.md)|
+<<<<<<< HEAD
 
 ## Code 201 Reading Notes 
 ### Welcome
@@ -42,6 +43,8 @@ Hi my name is Bara Awadallah I'm a a Computer engineer , graduated from Princess
 |   |   |
 
 
+=======
+>>>>>>> 03435352c200b1d1cde19d9acea6a47ba32a86b2
 
 
 
