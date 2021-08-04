@@ -94,5 +94,6 @@ without any efforts and costs like building servers and database  you can build 
 |Wikipedia   |[Click Here]( https://en.wikipedia.org/wiki/Markdown)  |
 |GitHubPages| [Click Here](https://pages.github.com/)  |
 |Master Markdown on GitHub  |[Click Here](https://pages.github.com/)   |
+|Summary of Java Script | [Click Here](https://barayousef.github.io/reading_notes/class01)|
 
 @Bara Awadallah
